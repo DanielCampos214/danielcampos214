@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Daniel :smiley: sou de Tubarão SC, comecei esse ano na programação front-end! 
-
-Cristão
-
+Meu nome é Daniel :smiley: sou de Tubarão SC, comecei  comecei esse ano na programação
 Sou casado
 
 Amante nato da T.I
