@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-Meu nome é Daniel :smiley: sou de Tubarão SC, comecei  comecei esse ano na programação
-Sou casado
+Me chamo Daniel, tenho 22 anos e comecei esse ano no mundo da programação
 
 Amante nato da T.I
 <br>
